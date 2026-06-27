@@ -33,6 +33,26 @@ This project is a Movie Recommendation System developed using Python and Machine
 4. Enter a movie name when prompted.
 5. View the recommended movies.
 
+
+## 📁 Project Structure
+
+```text
+Movie-Recommendation-System/
+│
+├── Movie_Recommendation_System.ipynb    # Jupyter Notebook containing the complete project
+├── movies.csv                           # Dataset used for movie recommendations
+├── README.md                            # Project documentation
+└── Screenshots/
+    ├── 01_Importing_Dependencies.png
+    ├── 02_Dataset_Loaded.png
+    ├── 03_Dataset_Shape.png
+    ├── 04_Selected_Features.png
+    ├── 05_Feature_Vector_Creation.png
+    ├── 06_Cosine_Similarity.png
+    ├── 07_User_Input.png
+    └── 08_Movie_Recommendations.png
+```
+
 ## 📸 Project Screenshots
 
 The `Screenshots` folder contains images of:
